@@ -3,6 +3,7 @@ package com.vbiso.design_pattern.state.example;
 /**
  * @Author: wenliujie
  * @Description: 抽象状态类
+ * @Description:
  * @Date: Created in 10:53 PM 2019/2/13
  * @Modified By:
  */
