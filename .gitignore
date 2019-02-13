@@ -26,7 +26,7 @@ hs_err_pid*
 *.classpath
 *.project
 *.bak
-target
+target/
 .sass-cache
 *.log
 bin/**
@@ -34,4 +34,4 @@ bin/**
 *.iml
 submode
 .svn
-.idea
+.idea/
