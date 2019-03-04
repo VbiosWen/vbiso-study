@@ -35,6 +35,7 @@ public class Client {
 
     producer.start();
 
+
     for (int i = 0; i < 1000000; i++) {
       try {
         Message message = new Message("test_01", "tag1",

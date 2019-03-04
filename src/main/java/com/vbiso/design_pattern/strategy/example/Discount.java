@@ -2,7 +2,7 @@ package com.vbiso.design_pattern.strategy.example;
 
 /**
  * @Author: wenliujie
- * @Description:
+ * @Description: 抽象策略类
  * @Date: Created in 10:37 PM 2019/2/13
  * @Modified By:
  */

@@ -29,6 +29,7 @@ public class ClientConsumer {
 
     consumer.subscribe("test_01", "*");
 
+
     consumer.registerMessageListener((MessageListenerConcurrently) (msgs, context) -> {
       for (MessageExt msg : msgs) {
         String topic = msg.getTopic();
